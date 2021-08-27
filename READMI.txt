@@ -1,0 +1,5 @@
+cmd code to run streamlit
+run the virtualenv
+
+>>> cd Food Review
+>>> streamlit run start.py
